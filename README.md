@@ -1,7 +1,9 @@
 <h2 align="left">Olá, meu nome é <strong>Luís Henrique Cavalcanti</strong>! 🚀<br>
   Sou desenvolvedor e atualmente trabalho com <strong>Java Spring Boot</strong>, criando aplicações escaláveis e de alto desempenho.<br>
   Estou envolvido em projetos pessoais como <strong>Minibiz</strong> e <strong>NossoMomento</strong>, onde também utilizo <strong>React.js</strong> para desenvolver interfaces dinâmicas e interativas.<br>
-  Além disso, estou cursando <strong>Engenharia de Software na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!</h2>
+  Além disso, estou cursando <strong>Engenharia de Software na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!
+</h2>
+
 
 ###
 
