@@ -4,7 +4,6 @@
   Além disso, estou cursando <strong>Engenharia de Software na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!
 </h2>
 
-
 ###
 
 <div align="center">
@@ -18,6 +17,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -80,6 +81,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Luisptbr/count.svg?"  />
 </div>
-
-###
-
