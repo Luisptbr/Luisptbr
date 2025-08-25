@@ -70,8 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Luisptbr/Luisptbr/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
