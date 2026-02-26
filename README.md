@@ -1,7 +1,7 @@
 <h2 align="left">Olá, meu nome é <strong>Luís Henrique Cavalcanti</strong>! 🚀<br>
   Sou desenvolvedor e atualmente trabalho com <strong>Java Spring Boot</strong>, criando aplicações escaláveis e de alto desempenho.<br>
   Estou envolvido em projetos pessoais como <strong>Minibiz</strong> e <strong>NossoMomento</strong>, onde também utilizo <strong>React.js</strong> para desenvolver interfaces dinâmicas e interativas.<br>
-  Além disso, estou cursando <strong>Engenharia de Software na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!
+  Além disso, estou cursando <strong>Segurança da Informação na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!
 </h2>
 
 ###
@@ -57,11 +57,6 @@
 <div align="left">
   <a href="https://www.instagram.com/luisptbr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/bgrilo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  
   
   <a href="https://www.linkedin.com/in/luis-henrique-cavalcanti-de-campos-431013109/?originalSubdomain=br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
