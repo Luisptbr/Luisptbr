@@ -1,18 +1,8 @@
-<h2 align="left">Olá, meu nome é <strong>Luís Henrique Cavalcanti</strong>! 🚀<br>
-  Sou desenvolvedor e atualmente trabalho com <strong>Java Spring Boot</strong>, criando aplicações escaláveis e de alto desempenho.<br>
-  Estou envolvido em projetos pessoais como <strong>Minibiz</strong> e <strong>NossoMomento</strong>, onde também utilizo <strong>React.js</strong> para desenvolver interfaces dinâmicas e interativas.<br>
-  Além disso, estou cursando <strong>Segurança da Informação na UNICID EAD</strong>, sempre buscando evoluir minhas habilidades e explorar novas tecnologias!
-</h2>
+<h2 align="left">My name is <strong>Luís Cavalcanti</strong>, I'm a software development student, living in São Paulo 🌃</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisptbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV0azg5MmJieWU2amdpN2loZGQybzIyMDhhNGRqbjZudTN1OTEzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5yOQJ3X3y0Xyd476S/giphy.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/d217dd67179dcce5b6d7106baaf7d13d7fc092db04ec5c6e1eeadc870b9aba8b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578637a5630617a67354d6d4a6965575532616d64704e326c6f5a475179627a49794d4468684e475271626a5a7564544e314f54457a62695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4135794f514a3358337930587964343736532f67697068792e676966" alt="coding gif" />
 
 ###
 
@@ -55,14 +45,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/luisptbr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:devluis.cavalcanti@gmail.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/cba507d8cb5ffac3da1300d2c4e6d13e43554eb4054a417229d0cfb278868e96/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="gmail logo" />
+  </a>
   
   <a href="https://www.linkedin.com/in/luis-henrique-cavalcanti-de-campos-431013109/?originalSubdomain=br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
-
-
