@@ -1,4 +1,4 @@
-<h2 align="left">My name is <strong>Luís Cavalcanti</strong>, I'm a software development student, living in São Paulo 🌃</h2>
+<h2 align="left">My name is <strong>Luís Cavalcanti</strong>, I'm a software development, living in São Paulo 🌃</h2>
 
 ###
 
