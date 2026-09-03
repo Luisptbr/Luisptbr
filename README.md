@@ -1,4 +1,16 @@
-<h2 align="left">My name is <strong>Luís Cavalcanti</strong>, I'm a software development, living in São Paulo 🌃</h2>
+<h2 align="left">
+
+Luís Cavalcanti • Software Developer • São Paulo, Brazil 
+
+</h2>
+
+ 
+
+<p>
+
+Software Developer focused on designing and building scalable web applications, RESTful APIs, and enterprise solutions using Java, Spring Boot, SQL, and NoSQL technologies.
+
+</p>
 
 ###
 
